@@ -1,0 +1,16 @@
+{
+  "_components": {
+    "Code.ExampleComponent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+      "$type": "Code.ExampleComponent, Assembly-CSharp",
+      "MySprite": {
+        "Guid": "c6943ef5514a84a4eb7923c86a7ed911"
+      },
+      "MyPrefab": {
+        "Guid": "fdb9fe7a2a0bc284894cee488a758a41"
+      }
+    }
+  },
+  "Name": "Skeleton",
+  "Guid": "26529fe57ff458241994a874b4a83926",
+  "Category": 0
+}
