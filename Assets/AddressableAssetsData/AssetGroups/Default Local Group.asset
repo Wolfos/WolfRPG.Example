@@ -22,23 +22,41 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 95042777f341a694d8bee9d490dcce11
+  - m_GUID: fdb9fe7a2a0bc284894cee488a758a41
+    m_Address: Assets/Warrior/Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bdee55ae37b15b4081586cc73aaa80d
     m_Address: Assets/WolfRPG/DefaultDatabase.json
     m_ReadOnly: 0
     m_SerializedLabels:
     - WolfRPG Default Database
     - WolfRPG Database
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 26529fe57ff458241994a874b4a83926
+  - m_GUID: 0e06bb8fb96c3ca429e357739855d587
     m_Address: Assets/WolfRPG/Objects/New Object 1.json
     m_ReadOnly: 0
     m_SerializedLabels:
     - WolfRPG Object
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fdb9fe7a2a0bc284894cee488a758a41
-    m_Address: Assets/Warrior/Prefab.prefab
+  - m_GUID: 378b3bf2a468da3488f3c87f5532de46
+    m_Address: Assets/WolfRPG/Objects/New Object 6.json
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - WolfRPG Object
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3081c6c7b3d44654db6ee017f1960031
+    m_Address: Assets/WolfRPG/Localization.csv
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WolfRPG Localization File
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e42d0d7e0f956a4a8aa547d8024e6f7
+    m_Address: Assets/WolfRPG/Objects/New Object 7.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WolfRPG Object
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 369e3f5c9108f5a49983738f949eb271, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 417d021a39c3f0742ac2db6413c551fc
   m_currentHash:
     serializedVersion: 2
-    Hash: d5edec67c875f947259e348f3409a414
+    Hash: f58f46741a45293db05252100d9d07a5
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -90,6 +90,7 @@ MonoBehaviour:
     - WolfRPG Database
     - WolfRPG Default Database
     - WolfRPG Object
+    - WolfRPG Localization File
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 16444c7eba0e16f41b0aeddc1e400b90, type: 2}

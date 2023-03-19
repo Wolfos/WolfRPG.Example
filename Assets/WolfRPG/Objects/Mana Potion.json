@@ -1,0 +1,21 @@
+{
+  "_components": {
+    "WolfRPG.Inventory.ItemData, WolfRPG.Inventory, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+      "$type": "WolfRPG.Inventory.ItemData, WolfRPG.Inventory",
+      "RpgObject": null,
+      "Name": {
+        "Identifier": "ManaPotionName"
+      },
+      "Description": {
+        "Identifier": "ManaPotionDescription"
+      },
+      "BaseValue": 20,
+      "CanEquip": false,
+      "CanUse": false
+    }
+  },
+  "Name": "Mana Potion",
+  "Guid": "9e42d0d7e0f956a4a8aa547d8024e6f7",
+  "Category": 0,
+  "IncludedInSavedGame": false
+}

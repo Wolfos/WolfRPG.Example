@@ -1,0 +1,21 @@
+{
+  "_components": {
+    "WolfRPG.Inventory.ItemData, WolfRPG.Inventory, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+      "$type": "WolfRPG.Inventory.ItemData, WolfRPG.Inventory",
+      "RpgObject": null,
+      "Name": {
+        "Identifier": "HealthPotionName"
+      },
+      "Description": {
+        "Identifier": "HealthPotionDescription"
+      },
+      "BaseValue": 10,
+      "CanEquip": false,
+      "CanUse": false
+    }
+  },
+  "Name": "Health Potion",
+  "Guid": "378b3bf2a468da3488f3c87f5532de46",
+  "Category": 0,
+  "IncludedInSavedGame": false
+}
