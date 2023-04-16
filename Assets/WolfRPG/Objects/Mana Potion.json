@@ -10,14 +10,26 @@
         "Identifier": "ManaPotionDescription"
       },
       "Type": 1,
-      "BaseValue": 20,
+      "BaseValue": 30,
       "CanEquip": false,
       "CanUse": true,
       "Weight": 0.2
+    },
+    "WolfRPG.Inventory.ConsumableData, WolfRPG.Inventory, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+      "$type": "WolfRPG.Inventory.ConsumableData, WolfRPG.Inventory",
+      "AttributeStatusEffects": [
+        {
+          "Attribute": 7,
+          "Effect": 15.0,
+          "Permanent": false,
+          "Duration": 10.0
+        }
+      ],
+      "SkillStatusEffects": null
     }
   },
   "Name": "Mana Potion",
-  "Guid": "9e42d0d7e0f956a4a8aa547d8024e6f7",
-  "Category": 0,
+  "Guid": "10c925c7baf3041d4a0817bbfdca6fa2",
+  "Category": 1,
   "IncludedInSavedGame": false
 }

@@ -10,14 +10,26 @@
         "Identifier": "HealthPotionDescription"
       },
       "Type": 1,
-      "BaseValue": 10,
+      "BaseValue": 30,
       "CanEquip": false,
       "CanUse": true,
       "Weight": 0.2
+    },
+    "WolfRPG.Inventory.ConsumableData, WolfRPG.Inventory, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
+      "$type": "WolfRPG.Inventory.ConsumableData, WolfRPG.Inventory",
+      "AttributeStatusEffects": [
+        {
+          "Attribute": 5,
+          "Effect": 15.0,
+          "Permanent": false,
+          "Duration": 10.0
+        }
+      ],
+      "SkillStatusEffects": null
     }
   },
   "Name": "Health Potion",
-  "Guid": "378b3bf2a468da3488f3c87f5532de46",
-  "Category": 0,
+  "Guid": "36c3d0e1a287544f78a063a43204c41e",
+  "Category": 1,
   "IncludedInSavedGame": false
 }
