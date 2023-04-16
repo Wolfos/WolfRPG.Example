@@ -5,7 +5,11 @@
       "CharacterName": "Skeleton",
       "Portrait": {
         "Guid": "c6943ef5514a84a4eb7923c86a7ed911"
-      }
+      },
+      "ArrayTest": [
+        "asdf",
+        "test"
+      ]
     },
     "Code.ExampleComponent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null": {
       "$type": "Code.ExampleComponent, Assembly-CSharp",

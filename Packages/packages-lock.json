@@ -176,6 +176,14 @@
       },
       "url": "https://packages.unity.com"
     },
+    "nl.eestudio.wolfrpg.character": {
+      "version": "file:../../WolfRPG.Character",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "nl.eestudio.wolfrpg.core": "1.1.0"
+      }
+    },
     "nl.eestudio.wolfrpg.core": {
       "version": "file:../../WolfRPG.Core",
       "depth": 0,

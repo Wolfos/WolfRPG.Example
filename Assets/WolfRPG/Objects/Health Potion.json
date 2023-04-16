@@ -9,9 +9,11 @@
       "Description": {
         "Identifier": "HealthPotionDescription"
       },
+      "Type": 1,
       "BaseValue": 10,
       "CanEquip": false,
-      "CanUse": false
+      "CanUse": true,
+      "Weight": 0.2
     }
   },
   "Name": "Health Potion",

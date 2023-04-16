@@ -12,6 +12,7 @@
     "com.unity.visualscripting": "1.7.8",
     "nl.eestudio.wolfrpg.core": "file:../../WolfRPG.Core",
     "nl.eestudio.wolfrpg.inventory": "file:../../WolfRPG.Inventory",
+    "nl.eestudio.wolfrpg.character": "file:../../WolfRPG.Character",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -46,6 +47,7 @@
   },
   "testables": [
     "nl.eestudio.wolfrpg.core",
-    "nl.eestudio.wolfrpg.inventory"
+    "nl.eestudio.wolfrpg.inventory",
+    "nl.eestudio.wolfrpg.stats"
   ]
 }

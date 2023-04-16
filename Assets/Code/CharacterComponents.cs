@@ -8,6 +8,8 @@ namespace Code
 		public string CharacterName { get; set; }
 		[AssetReference(typeof(Sprite))]
 		public AssetReference Portrait { get; set; }
+		
+		public string[] ArrayTest { get; set; }
 	}
 
 	public class ExampleComponent : IRPGComponent
@@ -23,5 +25,10 @@ namespace Code
 	{
 		public int BaseLevel { get; set; }
 		public AnimationCurve XPCurve { get; set; }
+	}
+
+	public class MyTest : IRPGComponent
+	{
+		public TestClass[] MyTestClass { get; set; }
 	}
 }

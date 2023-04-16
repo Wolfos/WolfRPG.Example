@@ -3,3 +3,8 @@ HealthPotionName;Health Potion;Gezondheidsdrankje
 HealthPotionDescription;0% sugar;0% suiker
 ManaPotionName;Mana Potion;Toverdrankje
 ManaPotionDescription;Lots of sugar;Veel suiker
+ItemCategory0;UNDEFINED;UNDEFINED
+ItemCategory1;Consumable;Verbruiksartikel
+ItemCategory2;Weapon;Wapen
+ItemCategory3;Equipment;Uitrusting
+ItemCategory4;MAX;MAX
