@@ -40,20 +40,20 @@ MonoBehaviour:
     m_SerializedLabels:
     - WolfRPG Object
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 378b3bf2a468da3488f3c87f5532de46
-    m_Address: Assets/WolfRPG/Objects/New Object 6.json
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - WolfRPG Object
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3081c6c7b3d44654db6ee017f1960031
     m_Address: Assets/WolfRPG/Localization.csv
     m_ReadOnly: 0
     m_SerializedLabels:
     - WolfRPG Localization File
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9e42d0d7e0f956a4a8aa547d8024e6f7
-    m_Address: Assets/WolfRPG/Objects/New Object 7.json
+  - m_GUID: 10c925c7baf3041d4a0817bbfdca6fa2
+    m_Address: Assets/WolfRPG/Objects/New Object 12.json
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WolfRPG Object
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36c3d0e1a287544f78a063a43204c41e
+    m_Address: Assets/WolfRPG/Objects/New Object 11.json
     m_ReadOnly: 0
     m_SerializedLabels:
     - WolfRPG Object
